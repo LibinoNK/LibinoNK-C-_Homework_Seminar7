@@ -1,0 +1,15 @@
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/Task_47.csproj.AssemblyReference.cache
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/Task_47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/Task_47.AssemblyInfoInputs.cache
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/Task_47.AssemblyInfo.cs
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/Task_47.csproj.CoreCompileInputs.cache
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/bin/Debug/net6.0/Task_47
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/bin/Debug/net6.0/Task_47.deps.json
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/bin/Debug/net6.0/Task_47.runtimeconfig.json
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/bin/Debug/net6.0/Task_47.dll
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/bin/Debug/net6.0/Task_47.pdb
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/Task_47.dll
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/refint/Task_47.dll
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/Task_47.pdb
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/Task_47.genruntimeconfig.cache
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_7/Task_47/obj/Debug/net6.0/ref/Task_47.dll
